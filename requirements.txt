@@ -1,0 +1,5 @@
+trdg
+fugashi
+sentencepiece
+unidic_lite
+jaconv
