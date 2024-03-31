@@ -16,4 +16,4 @@ On this repo, i have used [TRDG](https://github.com/Belval/TextRecognitionDataGe
 
 ## Experiements 
 
-[0.jpg](output/0.jpg)
+![0.jpg](output/0.jpg)
