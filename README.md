@@ -17,3 +17,8 @@ On this repo, i have used [TRDG](https://github.com/Belval/TextRecognitionDataGe
 ## Experiements 
 
 ![0.jpg](output/0.jpg)
+![1.jpg](output/1.jpg)
+![2.jpg](output/2.jpg)
+![3.jpg](output/3.jpg)
+![4.jpg](output/4.jpg)
+![5.jpg](output/5.jpg)
