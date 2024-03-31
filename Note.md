@@ -7,7 +7,7 @@ def get_text_height(image_font, text):
     """
     return image_font.getsize(text)[1]
 TO : 
-def get_text_height(image_font: ImageFont, text: str) -> int:
+def get_text_height(image_font, text: str) -> int:
     """
     Get the height of a string when rendered with a given font
     """
